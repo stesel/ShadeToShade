@@ -1,2 +1,0 @@
-# ShadeToShade
-Created with CodeSandbox
